@@ -1,6 +1,6 @@
 
-<!-- <!DOCTYPE html>
-<html> -->
+<!DOCTYPE html>
+<html> 
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,3 +9,7 @@
 <body>
 
 	kebele header
+
+	<a href="add_kebele_employee.php">Register</a>
+
+	
